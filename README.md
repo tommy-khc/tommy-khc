@@ -5,7 +5,7 @@ I am a freelance software engineer in ![Fiverr](https://www.fiverr.com/tommy__ch
 In my off hours, I am a Philomath, tennis player, job seeker, christian and son.</br>
 
 ***
-[![Tommy Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-khc)](https://github.com/anuraghazra/github-readme-stats)
+[![Tommy Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-khc&count_private=true&show_icons=true)](https://github.com/tommy-khc/github-readme-stats)
 ***
 ### Tools I use
 #### Languages</br>
