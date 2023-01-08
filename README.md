@@ -34,4 +34,3 @@ In my off hours, I am a Philomath, tennis player, job seeker, christian and son.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tommy.chan.hihi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommy--chan/)
 [![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/tommy__chan?public_mode=true)</br>
-I won't reply any message on every Sunday.
