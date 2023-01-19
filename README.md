@@ -1,8 +1,8 @@
 ![profile_pic_of_resume_in_github](https://user-images.githubusercontent.com/66003316/204924036-5c3bcb43-52ad-4d38-ae40-e10fd0ef5193.png)
 ***
-I am a freelance software engineer in ![Fiverr](https://www.fiverr.com/tommy__chan?public_mode=true). My mainly role is to write programs requested by clients with JavaScript, Python, Java and C++.</br>
+I am a freelance software engineer at ![Fiverr](https://www.fiverr.com/tommy__chan?public_mode=true). My main role is to write programs requested by clients with JavaScript, Python, Java and C++.</br>
 
-In my off hours, I am a Philomath, tennis player, job seeker, christian and son.</br>
+In my off hours, I am a Philomath, tennis player, job seeker, Christian and son.</br>
 
 ***
 [![Tommy Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommy-khc&count_private=true&show_icons=true)](https://github.com/tommy-khc/github-readme-stats)
